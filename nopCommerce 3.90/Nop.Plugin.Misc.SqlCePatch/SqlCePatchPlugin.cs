@@ -1,6 +1,6 @@
 using Nop.Core.Plugins;
 
-namespace Nop.Plugin.Misc.VisualStudioPatch
+namespace Nop.Plugin.Misc.SqlCePatch
 {
     /// <summary>
     /// Sql Compact Patch Install
